@@ -12,3 +12,7 @@ Just
     brew install <formula>
 
 Enjoy!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dpo/homebrew-coinor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
