@@ -1,4 +1,14 @@
-homebrew-coinor
-===============
+# Homebrew-CoinOR
 
-A Homebrew Repository for [COIN-OR](http://www.coin-or.org) Projects
+A [Homebrew](http://brew.sh) repository for [Coin-OR](http://www.coin-or.org) projects.
+
+This repository hosts formulae for Coin-OR projects that conflict with one another or otherwise don't quite fit in [Homebrew/Science](https://github.com/Homebrew/homebrew-science).
+
+## How do I install these formulae?
+
+Just
+
+    brew tap homebrew/coinor
+    brew install <formula>
+
+Enjoy!
