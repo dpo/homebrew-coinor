@@ -4,11 +4,7 @@ class Cbc < Formula
   homepage 'https://projects.coin-or.org/Cbc'
   url 'http://www.coin-or.org/download/source/Cbc/Cbc-2.8.6.tgz'
   sha1 '71b1a4223c6c157376a706bbc84580be4ea2adf1'
-  head 'https://projects.coin-or.org/svn/Cbc/stable/2.8', :using => :svn
-
-  devel do
-    head 'https://projects.coin-or.org/svn/Cbc/trunk'
-  end
+  head 'https://projects.coin-or.org/svn/Cbc/trunk'
 
   depends_on :fortran
 
