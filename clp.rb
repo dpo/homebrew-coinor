@@ -13,6 +13,7 @@ class Clp < Formula
   depends_on :fortran
 
   conflicts_with '/homebrew/science/coinmp', :because => 'CoinMP already provides CLP (and more).'
+  conflicts_with '/homebrew/science/coinutils', :because => 'CLP already provides CoinUtils (and more).'
   conflicts_with 'cbc', :because => 'CBC already provides CLP (and more).'
 
   def install
