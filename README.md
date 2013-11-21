@@ -8,7 +8,7 @@ This repository hosts formulae for Coin-OR projects that conflict with one anoth
 
 Just
 
-    brew tap homebrew/coinor
+    brew tap dpo/coinor
     brew install <formula>
 
 Enjoy!
